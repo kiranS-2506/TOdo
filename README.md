@@ -8,3 +8,8 @@ This is a simple to-do list application built using HTML, CSS, and JavaScript.
 - Mark tasks as completed.
 - Remove tasks from the list.
 - Track the number of total tasks and completed tasks.
+
+**Technologies Used**
+- HTML
+- CSS (for styling)
+- JavaScript
